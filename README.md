@@ -65,7 +65,7 @@ ORDER BY 1, 2;
 您可以點擊下方連結，觀看完整的 Netflix 數據分析儀表板（由 Tablea Public 製作）：
 
 [查看 Tableau 儀表板（互動式視覺化）](https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1)  
-(images/netflix_analysis_visulization.png)
+![Netflix Tableau 儀表板預覽](images/netflix_analysis_visulization.png)
 
 ```
 ---
