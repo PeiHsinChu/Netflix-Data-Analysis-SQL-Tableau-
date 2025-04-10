@@ -62,22 +62,19 @@ ORDER BY 1, 2;
 
 ## Tableau 視覺化
 
-您可以點擊下方連結，觀看完整的 Netflix 數據分析儀表板（由 Tablea Public 製作）：
+您可以點擊下方連結，觀看完整的 Netflix 數據分析儀表板：
 
 [查看 Tableau 儀表板（互動式視覺化）](https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1)  
 ![Netflix Tableau 儀表板預覽](images/netflix_analysis_visulization.png)
 
 ```
 ---
-
 ## 專案結構
-```
 netflix-sql-project/
 ├── data/
-│   └── netflix_titles.csv
+│   └── netflix_titles.csv                  # 原始資料
 ├── sql_query/
-│   └── visualization_query.sql
+│   └── visulization_query.sql             # 所有 SQL 查詢語法
 ├── images/
-│   └── *.png（Tableau 圖表截圖）
-├── README.md
-```
+│   └── netflix_analysis_visulization.png   # Tableau 圖表截圖
+├── README.md                               # 專案說明文件
