@@ -62,10 +62,12 @@ ORDER BY 1, 2;
 
 ## Tableau 視覺化
 
-[查看互動式儀表板（Tableau Public）]([https://public.tableau.com/your_dashboard_link](https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1))  
-(images/netflix_analysis_visulization.png)
-```
+您可以點擊下方連結，觀看完整的 Netflix 數據分析儀表板（由 Tablea Public 製作）：
 
+[查看 Tableau 儀表板（互動式視覺化）](https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1)  
+(images/netflix_analysis_visulization.png)
+
+```
 ---
 
 ## 專案結構
