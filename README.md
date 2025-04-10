@@ -68,8 +68,12 @@ ORDER BY 1, 2;
 ![Netflix Tableau 儀表板預覽](images/netflix_analysis_visulization.png)
 
 ```
+
 ---
+
+
 ## 專案結構
+
 netflix-sql-project/
 ├── data/
 │   └── netflix_titles.csv                  # 原始資料
