@@ -71,14 +71,17 @@ ORDER BY 1, 2;
 
 ---
 
-
 ## 專案結構
-
+```
 netflix-sql-project/
 ├── data/
-│   └── netflix_titles.csv                  # 原始資料
-├── sql_query/
-│   └── visulization_query.sql             # 所有 SQL 查詢語法
+│   └── netflix_titles.csv
+├── sql/
+│   └── visualization_query.sql
 ├── images/
-│   └── netflix_analysis_visulization.png   # Tableau 圖表截圖
-├── README.md                               # 專案說明文件
+│   └── *.png（Tableau 圖表截圖）
+├── README.md
+```
+
+---
+
