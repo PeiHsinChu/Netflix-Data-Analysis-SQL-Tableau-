@@ -45,7 +45,7 @@
 
 ## SQL 查詢程式碼
 
-本專案查詢語法已整理於 [`sql_query/visulization_query.sql`](./sql/visualization_query.sql)。
+本專案查詢語法已整理於 [`[sql_query/visulization_query.sql](https://github.com/PeiHsinChu/Netflix-Data-Analysis-SQL-Tableau-/blob/f79323875eea116a144524ad4b011a40e26c1422/sql_query/visulization_query.sql)`](./sql/visualization_query.sql)。
 
 每段 SQL 對應一張視覺化圖表，具體範例如下：
 ```sql
@@ -60,14 +60,13 @@ ORDER BY 1, 2;
 
 ---
 
-## 📈 Tableau 視覺化結果
+## Tableau 視覺化結果
 
 ### 展示方式：
 
-📌 **方式 A：Tableau Public（推薦）**  
+**方式 A：Tableau Public（推薦）**  
 🔗 [查看互動式儀表板（Tableau Public）](https://public.tableau.com/your_dashboard_link)  
-
-📌 **方式 B：GitHub 圖片展示**  
+ **方式 B：GitHub 圖片展示**  
 可將 Tableau 截圖上傳至 `images/` 資料夾，README 內嵌如下：
 ```markdown
 ![內容成長趨勢](images/netflix_growth.png)
