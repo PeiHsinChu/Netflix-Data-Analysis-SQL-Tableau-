@@ -45,7 +45,7 @@
 
 ## SQL 查詢程式碼
 
-本專案查詢語法已整理於 [`sql_query/visualization_query.sql`](./sql/visualization_query.sql)。
+本專案查詢語法已整理於 [`sql_query/visulization_query.sql`](./sql/visualization_query.sql)。
 
 每段 SQL 對應一張視覺化圖表，具體範例如下：
 ```sql
