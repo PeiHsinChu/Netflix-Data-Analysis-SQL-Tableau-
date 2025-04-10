@@ -1,5 +1,4 @@
 # Netflix-Data-Analysis-SQL-Tableau-
-# Netflix Data Analysis using SQL + Tableau
 
  **專案目的**  
 本專案旨在分析 Netflix 數據，透過 PostgreSQL 撰寫 SQL 查詢，並以 Tableau 視覺化呈現內容趨勢、類型分佈、內容分級與全球來源，作為資料分析作品集示範。
