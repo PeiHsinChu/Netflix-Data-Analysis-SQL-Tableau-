@@ -45,7 +45,7 @@
 
 ## SQL 查詢程式碼
 
-本專案查詢語法已整理於 [`[sql_query/visulization_query.sql](https://github.com/PeiHsinChu/Netflix-Data-Analysis-SQL-Tableau-/blob/f79323875eea116a144524ad4b011a40e26c1422/sql_query/visulization_query.sql)`](./sql/visualization_query.sql)。
+[查看 SQL 查詢](./sql_query/visulization_query.sql)
 
 每段 SQL 對應一張視覺化圖表，具體範例如下：
 ```sql
