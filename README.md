@@ -60,26 +60,20 @@ ORDER BY 1, 2;
 
 ---
 
-## Tableau 視覺化結果
+## Tableau 視覺化
 
-### 展示方式：
-
-**方式 A：Tableau Public（推薦）**  
-🔗 [查看互動式儀表板（Tableau Public）](https://public.tableau.com/your_dashboard_link)  
- **方式 B：GitHub 圖片展示**  
-可將 Tableau 截圖上傳至 `images/` 資料夾，README 內嵌如下：
-```markdown
-![內容成長趨勢](images/netflix_growth.png)
+[查看互動式儀表板（Tableau Public）]([https://public.tableau.com/your_dashboard_link](https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1))  
+(images/netflix_analysis_visulization.png)
 ```
 
 ---
 
-## 📁 專案結構
+## 專案結構
 ```
 netflix-sql-project/
 ├── data/
 │   └── netflix_titles.csv
-├── sql/
+├── sql_query/
 │   └── visualization_query.sql
 ├── images/
 │   └── *.png（Tableau 圖表截圖）
